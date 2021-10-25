@@ -2,6 +2,7 @@ team leave @a
 spawnpoint @a 0 61 0
 gamemode survival @a
 kill @a
+clear @a
 function hammer:gamerulereset
 function hammer:regen
 time set day

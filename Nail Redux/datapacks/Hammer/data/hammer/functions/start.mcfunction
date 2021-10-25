@@ -5,6 +5,8 @@ gamemode survival @a[team=!spec]
 scoreboard objectives setdisplay sidebar Game
 setblock 14 67 -6 air
 setblock 14 67 -6 minecraft:redstone_block
+setblock 14 67 5 air
+setblock 14 67 5 minecraft:redstone_block
 fill 16 60 -4 16 60 3 air
 gamemode spectator @a[team=spec]
 tp @a[team=spec] 115 100 0
