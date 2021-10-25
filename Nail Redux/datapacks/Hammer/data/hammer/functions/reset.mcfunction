@@ -4,6 +4,7 @@ gamemode survival @a
 kill @a
 function hammer:gamerulereset
 function hammer:regen
+time set day
 scoreboard players set @e[type=minecraft:armor_stand] Timer 1200
 scoreboard players set Timer Game 1200
 scoreboard objectives setdisplay sidebar

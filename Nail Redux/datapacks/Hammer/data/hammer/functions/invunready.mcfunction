@@ -1,2 +1,2 @@
 tellraw @a ["",{"text":"[I]","color":"red"},{"text":" Not Ready"}]
-execute if block 5 58 0 air run team leave @a[team=inv]
+team leave @a[x=14,y=61,z=-4,dx=-5,dy=5,dz=7,team=!spec]
