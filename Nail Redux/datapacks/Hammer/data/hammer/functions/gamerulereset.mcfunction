@@ -1,5 +1,5 @@
 gamerule commandBlockOutput false
-gamerule doFireTick true
+gamerule doFireTick false
 gamerule doMobLoot true
 gamerule doMobSpawning false
 difficulty peaceful

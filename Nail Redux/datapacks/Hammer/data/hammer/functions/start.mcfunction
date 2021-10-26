@@ -13,6 +13,7 @@ tp @a[team=spec] 115 100 0
 setblock -11 52 -7 minecraft:air
 setblock -11 52 6 minecraft:air
 function hammer:teamspawnset
+scoreboard players set @a[team=def] Respawn 16
 gamerule doMobSpawning true
 gamerule doDaylightCycle true
 time set 16000
