@@ -1,5 +1,6 @@
 {
 	"values": [
-		
+		"hammer:defspawndooropen",
+		"hammer:defspawndoorclose"
 	]
 }
