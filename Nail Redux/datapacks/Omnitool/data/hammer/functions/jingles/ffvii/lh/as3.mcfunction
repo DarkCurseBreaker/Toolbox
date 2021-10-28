@@ -1,0 +1,1 @@
+playsound block.note_block.guitar block @p ~ ~ ~ 2 1.26
