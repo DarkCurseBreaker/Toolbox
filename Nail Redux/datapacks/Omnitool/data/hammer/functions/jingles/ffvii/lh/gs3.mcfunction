@@ -1,1 +1,1 @@
-playsound block.note_block.guitar block @p ~ ~ ~ 2 1.12
+execute at @a run playsound block.note_block.guitar block @a ~ ~ ~ 2 1.12
