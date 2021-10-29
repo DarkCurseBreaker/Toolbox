@@ -1,6 +1,7 @@
 {
 	"values": [
 		"hammer:post_game/gamerulereset",
-		"hammer:in_game/spongecheck"
+		"hammer:in_game/spongecheck",
+		"hammer:in_game/defrespawntimer"
 	]
 }
