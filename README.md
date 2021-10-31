@@ -17,6 +17,12 @@ You may have never heard of the asymmetric, competitive PvP called, Nail, but we
 - Randomized team selection works much faster now! (Though only for up to 12 players total)
 
 ## Upcoming Features
+- Blowing the Bridge
+
+- Item kill on reset
+
+- Wiki pages
+
 - More map choices along with a picking and randomizing system
 
 - Reintroducing the team captian system from the original Nail map
