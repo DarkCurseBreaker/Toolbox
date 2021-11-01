@@ -2,6 +2,7 @@ team leave @a
 spawnpoint @a 0 61 0
 gamemode survival @a
 kill @e
+kill @e
 clear @a
 function hammer:post_game/gamerulereset
 function hammer:post_game/regen

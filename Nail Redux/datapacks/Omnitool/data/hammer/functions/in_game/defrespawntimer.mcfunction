@@ -17,5 +17,5 @@ execute positioned 227 64 -18 run title @a[team=def,scores={Respawn=3},distance=
 execute positioned 227 64 -18 run title @a[team=def,scores={Respawn=2},distance=..1] title 2
 execute positioned 227 64 -18 run title @a[team=def,scores={Respawn=1},distance=..1] title 1
 execute positioned 227 64 -18 run scoreboard players remove @a[distance=..1,team=def] Respawn 1
-gamemode adventure @a[distance=..1]
+execute positioned 227 64 -18 run gamemode adventure @a[distance=..1]
 schedule function hammer:in_game/defrespawntimer 1s

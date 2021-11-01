@@ -2,6 +2,8 @@
 	"values": [
 		"hammer:post_game/gamerulereset",
 		"hammer:in_game/spongecheck",
-		"hammer:in_game/defrespawntimer"
+		"hammer:in_game/defrespawntimer",
+		"hammer:jingles/tf/load",
+		"hammer:jingles/superidol/load"
 	]
 }

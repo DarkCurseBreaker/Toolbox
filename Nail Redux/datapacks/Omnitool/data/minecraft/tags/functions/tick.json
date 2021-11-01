@@ -1,6 +1,9 @@
 {
 	"values": [
 		"hammer:in_game/defspawndooropen",
-		"hammer:in_game/defspawndoorclose"
+		"hammer:in_game/defspawndoorclose",
+		"hammer:jingles/tf/tick",
+		"hammer:in_game/delbucket",
+		"hammer:jingles/superidol/tick"
 	]
 }
