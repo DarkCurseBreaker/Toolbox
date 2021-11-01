@@ -17,9 +17,9 @@ You may have never heard of the asymmetric, competitive PvP called, Nail, but we
 - Randomized team selection works much faster now! (Though only for up to 12 players total)
 
 ## Upcoming Features
-- Blowing the Bridge
+- More Jingles
 
-- Item kill on reset
+- Jingle picker
 
 - Wiki pages
 
