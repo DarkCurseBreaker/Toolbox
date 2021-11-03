@@ -1,0 +1,2 @@
+execute as @s[scores={nbs_smash=30720..33320}] run function hammer:jingles/smash/tree/384_415
+execute as @s[scores={nbs_smash=33280..35960}] run function hammer:jingles/smash/tree/416_447

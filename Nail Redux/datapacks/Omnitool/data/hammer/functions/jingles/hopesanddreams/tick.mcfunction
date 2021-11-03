@@ -1,0 +1,2 @@
+execute as @a[tag=nbs_hopesanddr] run scoreboard players operation @s nbs_hopesanddr += speed nbs_hopesanddr
+execute as @a[tag=nbs_hopesanddr] at @s run function hammer:jingles/hopesanddreams/tree/0_4095

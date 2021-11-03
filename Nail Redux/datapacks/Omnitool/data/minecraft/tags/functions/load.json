@@ -4,6 +4,9 @@
 		"hammer:in_game/spongecheck",
 		"hammer:in_game/defrespawntimer",
 		"hammer:jingles/tf/load",
+		"hammer:jingles/smash/load",
+		"hammer:jingles/ffvii/load",
+		"hammer:jingles/hopesanddreams/load",
 		"hammer:jingles/superidol/load"
 	]
 }
