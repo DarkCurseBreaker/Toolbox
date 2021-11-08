@@ -1,12 +1,12 @@
 {
 	"values": [
 		"hammer:post_game/gamerulereset",
-		"hammer:in_game/spongecheck",
-		"hammer:in_game/defrespawntimer",
+		"hammer:pre_game/init",
 		"hammer:jingles/tf/load",
 		"hammer:jingles/smash/load",
 		"hammer:jingles/ffvii/load",
 		"hammer:jingles/hopesanddreams/load",
-		"hammer:jingles/superidol/load"
+		"hammer:jingles/superidol/load",
+		"fafik77:rng/init"
 	]
 }

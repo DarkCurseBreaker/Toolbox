@@ -1,12 +1,11 @@
 {
 	"values": [
-		"hammer:in_game/defspawndooropen",
-		"hammer:in_game/defspawndoorclose",
 		"hammer:in_game/delbucket",
 		"hammer:jingles/tf/tick",
 		"hammer:jingles/smash/tick",
 		"hammer:jingles/ffvii/tick",
 		"hammer:jingles/hopesanddreams/tick",
-		"hammer:jingles/superidol/tick"
+		"hammer:jingles/superidol/tick",
+		"fafik77:rng/tick"
 	]
 }
