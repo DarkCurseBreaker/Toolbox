@@ -15,17 +15,17 @@ You may have never heard of the asymmetric, competitive PvP called, [Nail](https
 
 - Visual refresh. [Nail](https://www.planetminecraft.com/project/nail---by-whiskey-brigade/) has recieved a fresh coat of paint! Most of the new visuals have been built by [Ksargen](https://www.minecraftforum.net/members/Ksargen/posts)'s team in Russia (no affiliation) whose [Nail Reborn](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3037410-nail-reborn-1-16-pvp-minecraft-map-for-8-12) map ([Map Download](https://drive.google.com/file/d/156OyrQ4g6y_yRRN8-tIwiz59RnxP-xkE/view)) we have utilised as a base for our remake. Credits to [TopTier Tater](https://www.youtube.com/channel/UCkujbF92OVn20eEgJgW1bAg) for aethetic additions such as jungle structures, castle nether theming, easter eggs, traps and an overall visual touch up.
 
-- The ability to choose which map you play on whether its classic [Nail](https://www.planetminecraft.com/project/nail---by-whiskey-brigade/), [Nail Reborn](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3037410-nail-reborn-1-16-pvp-minecraft-map-for-8-12) or our very own Nail Redux!
+- The ability to choose (or randomize) which map you play on whether its classic [Nail](https://www.planetminecraft.com/project/nail---by-whiskey-brigade/), [Nail Reborn](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3037410-nail-reborn-1-16-pvp-minecraft-map-for-8-12) or our very own Nail Redux!
 
 - Custom Command Book for custom [customization](https://github.com/DarkCurseBreaker/Toolbox/wiki/Customization)!
 
 - Randomized team selection works much faster now! (Though only for up to 12 players total)
 
 ## [Upcoming Features](https://github.com/DarkCurseBreaker/Toolbox/milestones)
-- More map choices along with a picking and randomizing system
-
 - Reintroducing the team captian system from the original Nail map
 
 - Cleaner functions
 
 - More polish
+
+- More levels!
