@@ -13,8 +13,6 @@ function hammer:jingles/superidol/stop
 function hammer:jingles/tf/stop
 function hammer:jingles/hopesanddreams/stop
 function hammer:jingles/smash/stop
-#Un-Forceload defender spawnpoint and 0,0
-forceload remove all
 #Clear all player teams
 team leave @a
 #Set spawnpoint of all players to lobby

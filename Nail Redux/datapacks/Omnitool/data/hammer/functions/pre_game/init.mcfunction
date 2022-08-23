@@ -8,3 +8,8 @@ scoreboard objectives add Map dummy
 scoreboard objectives add jingle dummy
 #Announce
 tellraw @a ["",{"text":"[Omnitool]","color":"green"},{"text":" Scoreboard Objectives Created!","color":"white"}]
+#Forceload defender spawnpoint and 0,0
+forceload add 227 -18
+forceload add 0 0
+#Announce
+tellraw @a ["",{"text":"[Omnitool]","color":"green"},{"text":" Necessary Chunks Forceloaded!","color":"white"}]
